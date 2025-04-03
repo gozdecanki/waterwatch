@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.gozde.waterwatch.WaterwatchApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.174 s - in com.gozde.waterwatch.WaterwatchApplicationTests

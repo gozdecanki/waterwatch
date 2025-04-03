@@ -1,0 +1,7 @@
+com\gozde\waterwatch\WaterwatchApplication.class
+com\gozde\controller\WaterConsumptionController.class
+com\gozde\service\WaterConsumptionService.class
+com\gozde\repository\WaterConsumptionRepository.class
+com\gozde\service\impl\WaterConsumptionServiceImpl.class
+com\gozde\utils\JacksonConfig.class
+com\gozde\model\WaterConsumption.class
